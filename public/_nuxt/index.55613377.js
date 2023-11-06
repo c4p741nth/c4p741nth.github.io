@@ -1,1 +1,0 @@
-import{_ as e,s as t,q as o,t as s}from"./entry.0ca360a3.js";const c={},n=s("h1",null,"Welcome to C4P741NTH's Site!",-1),_=[n];function r(a,l){return o(),t("div",null,_)}const i=e(c,[["render",r]]);export{i as default};
