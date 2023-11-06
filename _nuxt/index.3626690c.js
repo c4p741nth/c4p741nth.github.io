@@ -1,0 +1,1 @@
+import{_ as e,s as t,q as c,t as o}from"./entry.b75943bb.js";const s={},n=o("h3",null,"Welcome to c4p741nth site",-1),_=[n];function r(a,l){return c(),t("div",null,_)}const i=e(s,[["render",r]]);export{i as default};
