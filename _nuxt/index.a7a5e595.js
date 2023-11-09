@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as t,a as e,d as o}from"./entry.f9ee4e2b.js";const a={},c=e("br",null,null,-1),_=e("div",{class:"container paragraph"},[e("section",{id:"windows-tweaks"},[e("h4",null,[o("#"),e("u",null,"Windows Tweaks")]),e("p",null,"  1. Registry Editor ")])],-1),l=[c,_];function r(d,i){return t(),s("div",null,l)}const p=n(a,[["render",r]]);export{p as default};
