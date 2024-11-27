@@ -1,0 +1,1 @@
+import{_,x as o,A as n,v as c,D as s,E as a,F as r}from"./DnaYzvRG.js";const l=a(r),p={};function u(m,x){const e=l,t=s;return c(),o("div",null,[n(e),n(t)])}const d=_(p,[["render",u]]);export{d as default};
